@@ -1,0 +1,12 @@
+{
+    "compilerOptions": {
+        "jsx": "react",
+        "jsxFactory": "h",
+    },
+    "rules": {
+        "indent": ["error", 2]
+    },
+    "plugins": [
+        "react"
+    ]
+}

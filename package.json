@@ -1,0 +1,17 @@
+{
+  "name": "preact-bug",
+  "scripts": {
+    "run": "npx webpack && open dist/index.html"
+  },
+  "dependencies": {
+    "preact": "^10.0.0-beta.3",
+    "preact-render-to-string": "^5.0.4",
+    "ts-loader": "^6.0.4",
+    "tslint": "^5.18.0",
+    "typescript": "^3.5.2",
+    "webpack": "^4.35.2"
+  },
+  "devDependencies": {
+    "webpack-cli": "^3.3.5"
+  }
+}
